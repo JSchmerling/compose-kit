@@ -1,6 +1,7 @@
 .kotlin
 *.iml
-.idea
+.idea/*
+!.idea/runConfigurations/
 .gradle
 local.properties
 .DS_Store
@@ -10,3 +11,4 @@ lib/build/
 
 # Nix
 result
+.direnv
