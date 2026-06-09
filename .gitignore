@@ -1,0 +1,12 @@
+.kotlin
+*.iml
+.idea
+.gradle
+local.properties
+.DS_Store
+/build-cache
+/build
+lib/build/
+
+# Nix
+result
