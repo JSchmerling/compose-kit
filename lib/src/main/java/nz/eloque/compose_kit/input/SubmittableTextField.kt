@@ -1,4 +1,4 @@
-package nz.eloque.compose_kit.settings
+package nz.eloque.compose_kit.input
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer

@@ -1,4 +1,4 @@
-package nz.eloque.compose_kit.components
+package nz.eloque.compose_kit.dialog
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box

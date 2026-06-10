@@ -1,4 +1,4 @@
-package nz.eloque.compose_kit.components
+package nz.eloque.compose_kit.picker
 
 import android.content.Context
 import android.net.Uri

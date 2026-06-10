@@ -1,4 +1,4 @@
-package nz.eloque.compose_kit.components
+package nz.eloque.compose_kit.fab
 
 import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.layout.Box

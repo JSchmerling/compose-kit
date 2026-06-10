@@ -1,4 +1,4 @@
-package nz.eloque.compose_kit.components
+package nz.eloque.compose_kit.chip
 
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Arrangement

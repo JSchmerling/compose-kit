@@ -1,4 +1,4 @@
-package nz.eloque.compose_kit.components
+package nz.eloque.compose_kit.layout
 
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Column

@@ -1,4 +1,4 @@
-package nz.eloque.compose_kit.effects
+package nz.eloque.compose_kit.effect
 
 import android.content.pm.ActivityInfo
 import androidx.activity.compose.LocalActivity
