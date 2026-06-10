@@ -34,6 +34,10 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
 
+    lint {
+        disable += "MissingTranslation"
+    }
+
     publishing {
         singleVariant("release") {
             withSourcesJar()
