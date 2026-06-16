@@ -1,4 +1,4 @@
-package nz.eloque.foss_wallet.compose_kit.components
+package nz.eloque.compose_kit.components
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.material.icons.Icons
