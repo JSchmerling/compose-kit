@@ -26,7 +26,7 @@ In `gradle/libs.versions.toml`:
 
 ```toml
 [versions]
-compose-kit = "0.1.0"
+compose-kit = "x.y.z"
 
 [libraries]
 compose-kit = { module = "nz.eloque.compose-kit:lib", version.ref = "compose-kit" }
