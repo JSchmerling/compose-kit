@@ -72,10 +72,14 @@ publishing {
     repositories {
         maven {
             name = "staticRepo"
-            url = uri(
-                (project.findProperty("mavenRepoDir") as String?)
-                    ?: layout.buildDirectory.dir("staticRepo").get().asFile.path,
-            )
+            url =
+                uri(
+                    (project.findProperty("mavenRepoDir") as String?)
+                        ?: layout.buildDirectory
+                            .dir("staticRepo")
+                            .get()
+                            .asFile.path,
+                )
         }
     }
 }
