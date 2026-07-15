@@ -57,7 +57,10 @@ fun SettingsTextField(
             imageVector = imageVector,
             onSubmit = onSubmit,
             onValueChange = { value = it },
-            modifier = Modifier.weight(0.3125f),
+            modifier =
+                Modifier
+                    .weight(0.3125f)
+                    .negativeHorizontalPadding(4.dp),
             singleLine = singleLine,
             enabled = enabled,
             isError = isError,
